@@ -1,6 +1,6 @@
 ### Zdravo / Hello / Hola 👋
 
-* Frontend developer
+* Frontend web developer
 * JavaScript, React, HTML, CSS 
 
 <!--
