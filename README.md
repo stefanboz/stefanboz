@@ -1,4 +1,4 @@
-### Hi there 👋
+### Zdravo / Hello / Hola 👋
 
 <!--
 **stefanboz/stefanboz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
